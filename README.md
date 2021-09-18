@@ -1,4 +1,4 @@
 # Note
 There are two different applications here
-GameApp
+GameApp,
 GitHub-desktop Landing Page
